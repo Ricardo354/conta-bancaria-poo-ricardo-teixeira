@@ -1,6 +1,6 @@
 # Objetivo
 
-<img width="572" height="134" alt="image" src="https://github.com/user-attachments/assets/a6b371ae-9df6-4c06-a714-72493522b77c" />
+<img width="621" height="248" alt="image" src="https://github.com/user-attachments/assets/032369c8-a09f-4646-8ff5-192749612e05" />
 
 # Como executar
 
